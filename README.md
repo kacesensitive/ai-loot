@@ -48,7 +48,7 @@ ollama pull llama3.1
 
 ```bash
 # Clone the legendary repository
-git clone https://github.com/your-username/ai-loot.git
+git clone https://github.com/kacesensitive/ai-loot.git
 cd ai-loot
 
 # Install dependencies
